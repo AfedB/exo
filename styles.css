@@ -109,7 +109,7 @@ body {
 }
 
 .img img:hover:after {
-    content: url(/images/icon-view.svg);
+    content: url(./images/icon-view.svg);
     background-repeat: no-repeat;
     background-position: center bottom;
     display: block;
@@ -161,7 +161,7 @@ body {
 }
 
 #text-amount::before {
-    content: url(/images/icon-ethereum.svg);
+    content: url(./images/icon-ethereum.svg);
     position: relative;
     top: .2rem;
     right: .2rem;
@@ -173,7 +173,7 @@ body {
 }
 
 #days-left::before {
-    content: url(/images/icon-clock.svg);
+    content: url(./images/icon-clock.svg);
     position: relative;
     top: .2rem;
     right: .2rem;
